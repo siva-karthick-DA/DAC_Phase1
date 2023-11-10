@@ -47,6 +47,6 @@
 <h4>Vaccines and Number of countries used it</h4>
 <img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/vaccines%20country%20count.png" alt="png">
 <h4>Time series forcasting on the daily vaccinations</h4>
-<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/newplot.png" alt="png"
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/newplot.png" alt="png">
 
 

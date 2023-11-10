@@ -1,7 +1,7 @@
 # COVID VACCINES ANALYSIS
 <hr>
 <h2>Indrotuction</h2>
-<p ><img src="" height="500px"></p>
+<p ><img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/covid%20vaccine.jpg" height="500px"></p>
 <p style="text-indent:90px"> Covid - 19 making a big change in this world.Daily day work at office also critical on that situations.Vaccines and Human kind is our 
   only to recover from the lose.In my Project make an analysis on the vaccine data on the all over world to make good decisions in the
    vaccine distributions and its adverse effect.Forcasting the daily vaccination growth and train model to find the total vaccintion inthe 
@@ -36,15 +36,15 @@
 <h2>Visualizations</h2>
 <h3>covid vaccinations dataset</h3>
 <h4><b>Country wise total vaccinations</b></h4>
-<img src="" alt="png">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/total%20vaccination.png" alt="png">
 <h4>Vaccine group total vaccinations</h4>
-<img src="" alt="png">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/total%20vaccinations%20of%20the%20vaccines%20groups.png" alt="png">
 <h4>Vaccine groups and number countries used</h4>
 <img src="" alt="png">
 <h3>covid vaccinations by manufactures</h3>
 <h4>Locations total vaccination</h4>
-<img src="" alt="">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/locations.png" alt="">
 <h4>Vaccines and Number of countries used it</h4>
-<img src="" alt="">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/vaccines%20country%20count.png" alt="">
 
 

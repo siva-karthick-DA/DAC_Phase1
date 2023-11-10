@@ -40,11 +40,13 @@
 <h4>Vaccine group total vaccinations</h4>
 <img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/total%20vaccinations%20of%20the%20vaccines%20groups.png" alt="png">
 <h4>Vaccine groups and number countries used</h4>
-<img src="" alt="png">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/number%20of%20countreis%20used%20vaccine%20groups.png" alt="png">
 <h3>covid vaccinations by manufactures</h3>
 <h4>Locations total vaccination</h4>
-<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/locations.png" alt="">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/locations.png" alt="png">
 <h4>Vaccines and Number of countries used it</h4>
-<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/vaccines%20country%20count.png" alt="">
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/vaccines%20country%20count.png" alt="png">
+<h4>Time series forcasting on the daily vaccinations</h4>
+<img src="https://github.com/siva-karthick-DA/DAC_Phase1/blob/main/photos/newplot.png" alt="png"
 
 
